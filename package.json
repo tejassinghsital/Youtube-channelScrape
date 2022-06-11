@@ -1,0 +1,22 @@
+{
+  "name": "youtube-channelscrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejassinghsital/Youtube-channelScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejassinghsital/Youtube-channelScrape/issues"
+  },
+  "homepage": "https://github.com/tejassinghsital/Youtube-channelScrape#readme",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
